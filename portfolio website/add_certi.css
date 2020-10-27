@@ -1,0 +1,52 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.conatiner
+{
+    
+}
+.main-header h1
+{
+text-align: center;
+}
+.main-header
+{
+    margin: 0px;
+    background-color: aqua;
+    
+}
+
+.enter-data
+{
+    width: 40%;
+    position: absolute;
+    left:400px ;
+    border: 2px red solid;
+}
+
+
+
+.label
+{
+ display: block;
+  
+ height: 0px;
+ font-size: 0px;
+}
+.close-button
+{
+    display:inline;
+    float: right;
+    height: 0px;
+}
+.add-button
+{
+    display: block;
+}
+.add-button button
+{
+ 
+   
+    
+}
